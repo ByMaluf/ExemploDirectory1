@@ -16,7 +16,7 @@
 
                 foreach (string arquivo in arquivoTxt) //Pode deixar do tipo var tb
                 {
-                    /* 
+                    /* Substring (Int32)
                     * Recupera uma subcadeia de caracteres desta instância. 
                     * A subcadeia de caracteres começa em uma posição de caractere
                     * especificado e continua até o final da cadeia de caracteres.
